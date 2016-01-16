@@ -3,6 +3,9 @@
 Visualizes PM 2.5 concentration shown at Ibaraki prefecture agency web site. 
 Works with R. 
 
+![simple chart](https://tomizonor.files.wordpress.com/2013/03/fig51.png)
+![chart with map](https://tomizonor.files.wordpress.com/2016/01/fig4-plot.png)
+
 ## Data
 
 - [Air pollution monitoring service, Ibaraki prefecture, Japan](http://www.taiki.pref.ibaraki.jp/data.asp)
